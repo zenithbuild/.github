@@ -12,7 +12,7 @@
 -->
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/zenithbuild/.github/main/assets/zenith-logo-glow.png" alt="Zenith Logo" width="120" height="120" />
+  <img src="https://avatars.githubusercontent.com/u/252813133?s=400&u=e255578b656f977b3fcacd0e9e42f8af2dd7ece2&v=4" alt="Zenith Logo" width="120" height="120" />
   
   <h1>Zenith</h1>
   
