@@ -30,16 +30,6 @@
   <br />
 </div>
 
-## Support Zenith
-
-Zenith is an open source project built around compiler-first UI, deterministic output, explicit contracts, and minimal runtime behavior.
-
-If you use Zenith in your work or want to support its continued development, consider sponsoring the project on GitHub: [Sponsor Zenith](https://github.com/sponsors/zenithbuild). Sponsorship helps fund core engineering, tooling, documentation, and long-term maintenance.
-
-A limited number of design partner and implementation/advisory relationships are also available for teams exploring Zenith seriously.
-
----
-
 ### The Iron Heart of Modern Web Development
 
 Zenith is a compile-time deterministic framework designed for **zero accidental complexity**. We believe in sealing the layers between your code and the browser to guarantee performance, stability, and predictable builds.
@@ -87,6 +77,16 @@ Zenith is open source and built by a community of engineers who value precision.
 - **[Contribution Guide](https://github.com/zenithbuild/zenith/blob/main/CONTRIBUTING.md)**: Read the contract before you push.
 - **[RFCs](https://github.com/zenithbuild/rfcs)**: Propose architectural changes.
 - **[Issues](https://github.com/zenithbuild/zenith/issues)**: Report bugs or contract violations.
+
+---
+
+## Support Zenith
+
+Zenith is an open source project built around compiler-first UI, deterministic output, explicit contracts, and minimal runtime behavior.
+
+If you use Zenith in your work or want to support its continued development, consider sponsoring the project on GitHub: [Sponsor Zenith](https://github.com/sponsors/zenithbuild). Sponsorship helps fund core engineering, tooling, documentation, and long-term maintenance.
+
+A limited number of design partner and implementation/advisory relationships are also available for teams exploring Zenith seriously.
 
 ---
 
